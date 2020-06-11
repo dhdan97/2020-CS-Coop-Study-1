@@ -1,0 +1,12 @@
+My favorite text editor is Sublime Text, with one reason being that Sublime Text is a general text editor (with assistance), meaning that I can use this editor for multiple languages.
+This is in contrast to text editors with an IDE built in. Most of those types of text editors are specialized for only one language, limiting my options and requiring me to install multiple text editors.
+Some people would then prefer Vim, but the assistance Sublime Text provides has helped me identify mistakes in my code and is overall more intuitive than Vim, which requires users to get used to using keystrokes to navigate.
+
+Another reason why Sublime Text is my favorite text editor is because of large library of plugins. 
+The community has come together and created very useful plugins for everyone to use.
+These plugins include syntax highlighting, git integration, and UI changes. These plugins could be specifically for a given language or apply to general use. 
+Most of these plugins do not come with the initial install of Sublime Text, giving us the freedom to choose the plugins we want, and not have our text editor cluttered with plugins we don’t use.
+
+My final reason why Sublime is my favorite is that it is free to use. The free version of Sublime Text is a trial, but it is unlimited in time and comes with all the features the paid version has. 
+This may seem insignificant, but some text editors have ‘pro’ versions that give you access to useful features and tools but require payment. 
+One example of such a text editor is IntelliJ, a Java IDE. There is a free version of the application but they also offer a subscription that provides extra tools and features.
